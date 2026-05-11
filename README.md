@@ -8,7 +8,7 @@ CST's [Barfy's Adventure](https://barfy.itch.io/adventure) mods. May or may not 
 
 ## Other Mods
 
-> !warning
+> [!CAUTION]
 > These haven't been updated since November 2025. Expect them to be broken in the current BA version. I'm procrastinating too much to bother updating them.
 
 (By the way, you can extract any of these to view their source code)
