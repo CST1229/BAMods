@@ -1,5 +1,3 @@
-# BA Mods
-
 CST's [Barfy's Adventure](https://barfy.itch.io/adventure) mods. May or may not become a general BA mod repository in the future.
 
 ## BA Launcher Mod Loader
