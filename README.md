@@ -6,8 +6,7 @@ CST's [Barfy's Adventure](https://barfy.itch.io/adventure) mods. May or may not 
 
 ## Other Mods
 
-> [!CAUTION]
-> These haven't been updated since November 2025. Expect them to be broken in the current BA version. I'm procrastinating too much to bother updating them.
+**WARNING: These haven't been updated since November 2025. Expect them to be broken in the current BA version. I'm procrastinating too much to bother updating them.**
 
 (By the way, you can extract any of these to view their source code. However, don't extract them if you just want to install them.)
 
@@ -21,4 +20,4 @@ CST's [Barfy's Adventure](https://barfy.itch.io/adventure) mods. May or may not 
 
 ## The GitHub Repo
 
-[here](https://github.com/CST1229/BAMods)
+[here](https://github.com/CST1229/BAMods) (btw, this page was generated from a README.md)
