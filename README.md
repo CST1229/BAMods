@@ -11,7 +11,7 @@ CST's [Barfy's Adventure](https://barfy.itch.io/adventure) mods. May or may not 
 > [!CAUTION]
 > These haven't been updated since November 2025. Expect them to be broken in the current BA version. I'm procrastinating too much to bother updating them.
 
-(By the way, you can extract any of these to view their source code)
+(By the way, you can extract any of these to view their source code. However, don't extract them if you just want to install them.)
 
 - [BALib](https://cst1229.eu.org/BAMods/mods/CST1229-BALib.zip) - library mod for adding tiles, etc.
 
